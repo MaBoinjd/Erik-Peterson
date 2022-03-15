@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # <u> Test Prep </u>
 ## <u> Notes Table of Contents </u>
 | TPT | Notes |
